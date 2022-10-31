@@ -1,0 +1,21 @@
+
+        브랜치 생성
+
+        1.만든다
+                  브랜치 이름 
+        git brach issue1
+
+        2. 확인
+
+        gir branch 라고 검색후에 확인
+
+
+        3. 브랜치 이동
+
+        git checkout 브랜치명
+
+        4.브랜치 삭제
+
+        git branch -d 브랜치명
+
+        안녕하세요 issue1 브랜치 입니다.
