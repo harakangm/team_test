@@ -20,8 +20,8 @@
 
         5. 브랜치 합치기
 
-        git merge issue1
+        git merge 브랜치명
 
     
 
-        안녕하세요 issue1 브랜치 입니다.
+        안녕하세요 issue2 브랜치 입니다.
