@@ -18,4 +18,10 @@
 
         git branch -d 브랜치명
 
+        5. 브랜치 합치기
+
+        git merge issue1
+
+    
+
         안녕하세요 issue1 브랜치 입니다.
